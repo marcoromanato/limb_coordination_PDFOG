@@ -7,7 +7,7 @@ Body-segment coordination as a new predictor of freezing of gait in people with 
 Calculations were performed using Python 3.12.11 and the following packages: 
 numpy 2.3.2, pandas 2.3.2,
 scipy 1.16.1, seaborn 0.13.2, 
-scikit-learn 1.7.1, h5py 3.14.0,
+scikit-learn 1.7.1, h5py 3.14.0
 
 ### Dataset
 The h5 file 'raw_gait_cycle_kinematics.h5' contains the used dataset: 
