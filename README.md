@@ -1,7 +1,7 @@
 ## Limb coordination - PD FOG
 Repository containing data and code to reproduce the figures and run scripts for the preprint:
 
-Marco Romanato,* Antonio Carlos Costa,* ... Carine Karachi, Claire Wyart, Brian Lau, Marie-Laure Welter (2026). 
+Marco Romanato*, Antonio Carlos Costa*, ... Carine Karachi, Claire Wyart, Brian Lau, Marie-Laure Welter (2026). 
 Body-segment coordination as a new predictor of freezing of gait in people with Parkinson’s disease. 
 
 Calculations were performed using Python 3.12.11 and the following packages: 
