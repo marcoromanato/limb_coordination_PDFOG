@@ -3,6 +3,7 @@ Repository containing data and code to reproduce the figures and run scripts for
 
 Marco Romanato*, Antonio Carlos Costa*, ... Carine Karachi, Claire Wyart, Brian Lau, Marie-Laure Welter (2026). 
 Body-segment coordination as a new predictor of freezing of gait in people with Parkinson’s disease. 
+https://www.biorxiv.org/content/10.64898/2026.02.02.702843v1
 
 Calculations were performed using Python 3.12.11 and the following packages: 
 numpy 2.3.2, pandas 2.3.2,
